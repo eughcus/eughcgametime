@@ -1,0 +1,14 @@
+{
+    "name": "com.eughc.gametime.runtime",
+    "rootNamespace": "Eughc.GameTime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
