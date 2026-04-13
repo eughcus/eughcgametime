@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 
+namespace Eughc.GameTime {
 public class TickSystem : MonoBehaviour {
     public static TickSystem Instance { get; private set; }
 
@@ -37,5 +38,5 @@ public class TickSystem : MonoBehaviour {
         _tick++;
         OnTick?.Invoke(this, _tick);
     }
-
+}
 }
