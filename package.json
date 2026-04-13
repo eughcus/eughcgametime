@@ -1,0 +1,13 @@
+{
+  "name": "com.eughc.gametime",
+  "version": "0.1.0",
+  "displayName": "Eughc Game Time",
+  "description": "Tick-based game time system. Provides a singleton TickSystem for game-world time progression independent of real time.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Yev Pletnev",
+    "url": "https://github.com/eughcus"
+  },
+  "keywords": ["tick", "time", "gametime"],
+  "dependencies": {}
+}
